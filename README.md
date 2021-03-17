@@ -2,7 +2,7 @@
 - 👀 I’m interested in many many things
 - 🌱 I’m currently learning python and html
 - 💞️ I’m looking to collaborate on wow
-- 📫 How to reach me ...
+- 📫 How to reach me ,you can see me email through 1311297792@qq.com
 
 <!---
 Ander-lee/Ander-lee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
